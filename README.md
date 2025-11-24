@@ -154,7 +154,7 @@ Full text available in docs/LLM_Acknowledgement.txt.
 
 (Replace with your real link)
 
-[https://3.basecamp.com/XXXXXXX/projects/XXXXXXXX](https://3.basecamp.com/6093804/projects/44867357)
+https://3.basecamp.com/6093804/projects/44867357
 
 
 This link contains the project’s To-Dos, schedule, message board, and documentation timeline.
